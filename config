@@ -1,0 +1,28 @@
+# ==========================
+font-family = Inconsolata Nerd Font 
+font-size   = 15
+
+# ==========================
+background-opacity  =   0.9
+background-blur = true
+unfocused-split-opacity = 0.7
+config-file = ~/.config/ghostty/themes/Calamity
+# theme   =  "Calamity"
+
+# ==========================
+keybind =   ctrl+shift+enter=new_split
+keybind =   ctrl+tab=goto_split:next
+keybind =   ctrl+shift++=increase_font_size:1
+keybind =   ctrl+shift+-=decrease_font_size:1
+keybind =   ctrl+shift+c=copy_to_clipboard
+keybind =   ctrl+shift+f11=toggle_fullscreen
+
+# ==========================
+custom-shader = shaders/bloom025.glsl
+custom-shader = shaders/cursor_blaze_no_trail.glsl
+custom-shader = shaders/cursor_smear.glsl
+custom-shader = shaders/bettercrt.glsl
+# custom-shader = shaders/glitchy.glsl
+# custom-shader = shaders/glow-rgbsplit-twitchy.glsl
+# custom-shader = shaders/retro-terminal.glsl
+
