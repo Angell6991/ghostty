@@ -6,7 +6,12 @@ font-size   = 15
 background-opacity  =   0.9
 background-blur = true
 unfocused-split-opacity = 0.7
-config-file = ~/.config/ghostty/themes/Calamity
+config-file = ~/.config/ghostty/themes/Slate
+# config-file = ~/.config/ghostty/themes/Seoulbones Dark
+# config-file = ~/.config/ghostty/themes/Nvim Dark
+# config-file = ~/.config/ghostty/themes/Cyberpunk Scarlet Protocol
+# config-file = ~/.config/ghostty/themes/Cursor Dark
+# config-file = ~/.config/ghostty/themes/Calamity
 # theme   =  "Calamity"
 
 # ==========================
