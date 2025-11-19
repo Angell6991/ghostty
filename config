@@ -1,6 +1,11 @@
 # ==========================
+working-directory = home
+window-inherit-working-directory = false
+
+# ==========================
 font-family = Inconsolata Nerd Font 
 font-size   = 15
+window-decoration = none
 
 # ==========================
 background-opacity  =   0.9
