@@ -18,6 +18,9 @@ config-file = ~/.config/ghostty/themes/Slate
 # config-file = ~/.config/ghostty/themes/Cursor Dark
 # config-file = ~/.config/ghostty/themes/Calamity
 # theme   =  "Calamity"
+window-padding-x    =   30
+window-padding-y    =   30
+
 
 # ==========================
 keybind =   ctrl+shift+enter=new_split
@@ -28,10 +31,10 @@ keybind =   ctrl+shift+c=copy_to_clipboard
 keybind =   ctrl+shift+f11=toggle_fullscreen
 
 # ==========================
-custom-shader = shaders/bloom025.glsl
-custom-shader = shaders/cursor_blaze_no_trail.glsl
-custom-shader = shaders/cursor_smear.glsl
-custom-shader = shaders/bettercrt.glsl
+# custom-shader = shaders/bloom025.glsl
+# custom-shader = shaders/cursor_blaze_no_trail.glsl
+# custom-shader = shaders/cursor_smear.glsl
+# custom-shader = shaders/bettercrt.glsl
 # custom-shader = shaders/glitchy.glsl
 # custom-shader = shaders/glow-rgbsplit-twitchy.glsl
 # custom-shader = shaders/retro-terminal.glsl
